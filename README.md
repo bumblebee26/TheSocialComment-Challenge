@@ -8,4 +8,4 @@ End result were:
 1. Recommend posts for the given user 
 2. Recommend similar posts for the given post
 
-The data is uploaded due to privacy issues.
+The data is not uploaded due to privacy issues.
